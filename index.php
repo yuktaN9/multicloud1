@@ -3,5 +3,5 @@
 Hybrid Multi Cloud
 </h1>
 <br>
-<img src="d3re8hxbqxl42m.cloudfront.net" width="640" height="443">
+<img src="C:\Users\KIIT\Downloads\timg.png" width="640" height="443">
 </html>
